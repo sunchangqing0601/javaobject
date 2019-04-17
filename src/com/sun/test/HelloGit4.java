@@ -4,7 +4,7 @@ public class HelloGit4 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("ÕâÊÇHelloGit4£¡");
+		System.out.println("åˆ›å»ºHelloGit4!");
 	}
 
 }
