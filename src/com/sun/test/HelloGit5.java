@@ -5,11 +5,11 @@ package com.sun.test;
  *
  */
 
-public class HelloGit {
+public class HelloGit5 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("这是HelloGit5！");
+		System.out.println("杩欐槸HelloGit5锛�");
 	}
 
 }
